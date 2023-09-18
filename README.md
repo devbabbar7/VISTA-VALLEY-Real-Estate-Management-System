@@ -14,7 +14,7 @@ Welcome to Vista Valley. It is your ultimate online destination for all things r
 9) Blogs <br />
 <br />
 
-## Database:
+### Database:
 1) Users <br />
 2) Properties <br />
 <br />
