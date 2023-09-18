@@ -43,3 +43,5 @@ Properties <br />
 ## Contact Us
 ![Screenshot (302)](https://github.com/devbabbar7/VISTA-VALLEY-Real-Estate-Management-System/assets/77525647/5b889aa9-4b51-4bf9-b871-100f6803aff6)
 
+## Database Management System
+![Screenshot (309)](https://github.com/devbabbar7/VISTA-VALLEY-Real-Estate-Management-System/assets/77525647/cfc937fe-ca53-47f9-a23c-3d5c3361d088)
