@@ -2,7 +2,7 @@
 
 Welcome to Vista Valley. It is your ultimate online destination for all things real estate. We bring together buyers, sellers, and brokers in a seamless, efficient, and cost-effective forum. Discover the future of real estate interaction here.
 
-Some Features: <br />
+### Some Features: <br />
 Login <br />
 Registration <br />
 Change Password <br />
