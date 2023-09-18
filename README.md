@@ -3,19 +3,19 @@
 Welcome to Vista Valley. It is your ultimate online destination for all things real estate. We bring together buyers, sellers, and brokers in a seamless, efficient, and cost-effective forum. Discover the future of real estate interaction here.
 
 ### Some Features: <br />
-Login <br />
-Registration <br />
-Change Password <br />
-Add Properties <br />
-Search Properties <br />
-Delete Properties <br />
-Display all properties <br />
-Email Service / Contact us <br />
-Blogs <br />
+1) Login <br />
+2) Registration <br />
+3) Change Password <br />
+4) Add Properties <br />
+5) Search Properties <br />
+6) Delete Properties <br />
+7) Display all properties <br />
+8) Email Service / Contact us <br />
+9) Blogs <br />
 <br />
-Database: <br />
-Users <br />
-Properties <br />
+### Database: <br />
+1) Users <br />
+2) Properties <br />
 <br />
 
 ## Login Page
