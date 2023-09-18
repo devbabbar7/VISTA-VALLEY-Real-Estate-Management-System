@@ -13,7 +13,7 @@ Welcome to Vista Valley. It is your ultimate online destination for all things r
 8) Email Service / Contact us <br />
 9) Blogs <br />
 <br />
-### Database: <br />
+### Database:
 1) Users <br />
 2) Properties <br />
 <br />
